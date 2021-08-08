@@ -1,0 +1,46 @@
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+#top {
+    text-align: center;
+    font-size: large;
+}
+
+#logo {
+    color: white;
+    background-color: teal;
+    display: inline-block;
+    padding: 3px;
+    font-weight: bold;
+    font-size: larger;
+}
+
+#image img {
+    width: 100%;
+    margin-top: 8px;
+    margin-bottom: 8px;
+}
+
+#main {
+    max-width: 800px;
+    text-align: center;
+    margin: auto;
+
+}
+
+#navigation a {
+    color: gray;
+    padding: 8px;
+}
+
+#navigation a:hover {
+    color: teal;
+}
+
+#bottom {
+    color: grey;
+    font-weight: lighter;
+    font-size: small;
+    text-align: center;
+}
