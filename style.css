@@ -5,14 +5,14 @@ body {
   justify-content: center;
   align-items: center;
   min-height: 100vh;
-  background: #010C3C;
+  background: #130f40;
   font-family: consolas;
 }
 a {
   position: relative;
   display: inline-block;
   padding: 15px 30px;
-  color: #7fa8cc;
+  color: #22a6b3;
   text-transform: uppercase;
   letter-spacing: 4px;
   text-decoration: none;
@@ -23,8 +23,8 @@ a {
 }
 a:hover {
   color: #ffffff;
-  background-color: #7fa8cc;
-  box-shadow: 0 0 10px #7fa8cc, 0 0 20px #7fa8cc, 0 0 40px #7fa8cc;
+  background-color: #22a6b3;
+  box-shadow: 0 0 10px #22a6b3, 0 0 20px #22a6b3, 0 0 40px #22a6b3;
   transition-delay: 0.3s;
 }
 
